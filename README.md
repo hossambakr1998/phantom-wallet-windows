@@ -81,10 +81,14 @@ cd phanton-wallet-windows
 
 npm install
 npm run start
-📜 License
+```
+
+# License
 MIT License. See LICENSE for more information.
 
-📬 Feedback & Contributions
+# Feedback & Contributions
 Found a bug or want to contribute? Feel free to open an issue or submit a pull request. Community feedback is welcome!
+
+--- 
 
 Phantom Desktop is built for those who move fast in Solana. Whether you're trading, testing, or launching — take control with multiple windows and faster workflows.
